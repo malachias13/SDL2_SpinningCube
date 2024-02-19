@@ -1,2 +1,2 @@
-# SpinningCube
+# Spinning Cube
 
